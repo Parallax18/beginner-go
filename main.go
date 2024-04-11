@@ -14,6 +14,7 @@ func main() {
 	//print(createSlice(util.ReceiveInput("Please enter a string on numbers separated by commas: ")))
 	//a := []int{2, 11, 15, 7}
 	//print(twoSum(a, 9))
-	print(romanToInt("MCMXCIV"))
+	//print(romanToInt("MCMXCIV"))
+	print(isPalindrome(121))
 
 }
